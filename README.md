@@ -1,4 +1,4 @@
-# learning_app
+# AI_editor_app
 
 A new Flutter project.
 
