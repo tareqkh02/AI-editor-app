@@ -2,15 +2,39 @@
 
 A new Flutter project.
 
-## Getting Started
+📖 Features
+✅ REST API Integration – Fetch and send data to a remote server.
+✅ Bloc State Management – Efficient and scalable state handling.
+✅ Responsive UI – Adaptive design for different screen sizes.
+✅ Error Handling – Handles API failures and network issues gracefully.
+✅ Loading & Caching – Optimized for a smooth user experience.
 
-This project is a starting point for a Flutter application.
+🛠️ Technologies Used
+Flutter – Cross-platform UI framework
+Dart – Programming language
+Bloc – State management
+HTTP – API requests
 
-A few resources to get you started if this is your first Flutter project:
+🚀 Getting Started
+1️⃣ Clone the Repository
+sh
+Copy code
+git clone https://github.com/your-username/AI_editor_app.git
+cd AI_editor_app
+2️⃣ Install Dependencies
+sh
+Copy code
+flutter pub get
+3️⃣ Run the App
+For Android:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+sh
+Copy code
+flutter run
+For iOS:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+sh
+Copy code
+cd ios && pod install && cd ..
+flutter run
+
