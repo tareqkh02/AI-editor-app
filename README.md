@@ -19,7 +19,7 @@ HTTP – API requests
 1️⃣ Clone the Repository
 sh
 Copy code
-git clone https://github.com/your-username/AI_editor_app.git
+git clone https://github.com/tareqkh02/AI-editor-app.git
 cd AI_editor_app
 2️⃣ Install Dependencies
 sh
